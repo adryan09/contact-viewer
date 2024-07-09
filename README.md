@@ -1,7 +1,5 @@
 # Getting Started with Create React App
 
-
-Clone the project
 This is a repo from 2022 moved here from another dev platform and add some small enhancements in recent period.
 
 It is a playground on trying to render a list of contacts from a server.We can do some actions e.g add/edit/delete a contact
